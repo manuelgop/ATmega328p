@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"Led_interrup.c" LINE:26
+timer0_compa_isr DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"Led_interrup.c" LINE:14
